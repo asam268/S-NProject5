@@ -8,3 +8,4 @@ git status
 git add text.txt
 git commit -m "Test Commit" test.txt
 git push -u origin master
+git pull
